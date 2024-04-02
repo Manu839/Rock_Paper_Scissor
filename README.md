@@ -1,4 +1,4 @@
-the ultimate online destination for a classic game with a modern twist! Engage in thrilling matches against your computer with our user-friendly interface. Simply choose your weapon - rock, paper, or scissors - and watch as the computer responds in real-time. With vibrant graphics and intuitive gameplay, our website provides endless entertainment for players of all ages. Whether you're sharpening your skills or seeking a quick diversion, "Rock Paper Scissors Interactive" guarantees hours of fun.
+The ultimate online destination for a classic game with a modern twist! Engage in thrilling matches against your computer with our user-friendly interface. Simply choose your weapon - rock, paper, or scissors - and watch as the computer responds in real-time. With vibrant graphics and intuitive gameplay, our website provides endless entertainment for players of all ages. Whether you're sharpening your skills or seeking a quick diversion, "Rock Paper Scissors Interactive" guarantees hours of fun.
 
 Tech and Tools used:
 1) React
