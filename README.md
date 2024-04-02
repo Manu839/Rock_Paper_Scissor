@@ -1,3 +1,14 @@
+the ultimate online destination for a classic game with a modern twist! Engage in thrilling matches against your computer with our user-friendly interface. Simply choose your weapon - rock, paper, or scissors - and watch as the computer responds in real-time. With vibrant graphics and intuitive gameplay, our website provides endless entertainment for players of all ages. Whether you're sharpening your skills or seeking a quick diversion, "Rock Paper Scissors Interactive" guarantees hours of fun.
+
+Tech and Tools used:
+1) React
+2) Tailwindcss
+3) Framer motion
+
+   ![image](https://github.com/Manu839/Rock_Paper_Scissor/assets/124304448/7d4d1091-01db-419d-9077-35bec4c90682)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
